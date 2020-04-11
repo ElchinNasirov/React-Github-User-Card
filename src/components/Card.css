@@ -1,0 +1,29 @@
+.card {
+    margin: auto;
+    margin-top: 10px;;
+	width: 300px;
+    padding: 10px 10px;
+	justify-content: space;
+    box-shadow: 0 1px 20px 0 rgba(151, 137, 140, 0.877);
+}
+
+.card-info {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button {
+	margin: 0 auto;
+	display: flex;
+	box-shadow: 0 1px 20px 0 rgba(69, 90, 100, 0.08);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.img {
+	width: 100%;
+	height: 100%;
+}
